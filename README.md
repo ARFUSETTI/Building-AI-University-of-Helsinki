@@ -43,7 +43,7 @@ El proceso sería:
 
 Este sistema es útil en entornos urbanos con alta densidad poblacional, especialmente en horarios punta o eventos que alteran el tráfico habitual.
 
-## HData sources and AI methods
+## Data sources and AI methods
 
 Los datos se obtienen de:
 
@@ -57,6 +57,28 @@ Para la IA, se usarán técnicas de:
 -Aprendizaje supervisado para predecir patrones de desplazamiento.
 -Redes neuronales profundas para analizar datos complejos y no lineales.
 -Algoritmos de optimización para generar rutas eficientes.
+
+## Codigo:
+
+import random
+
+# Datos de ejemplo: trabajadores y posibilidad de teletrabajo
+empleados = [
+    {"nombre": "Ana", "puede_teletrabajar": True},
+    {"nombre": "Luis", "puede_teletrabajar": False},
+    {"nombre": "Marta", "puede_teletrabajar": True},
+    {"nombre": "Carlos", "puede_teletrabajar": False},
+]
+
+# Función simple para recomendar desplazamiento o trabajo remoto
+def recomendar_movilidad(empleado):
+    if empleado["puede_teletrabajar"]:
+        return f"{empleado['nombre']}: Recomendar teletrabajo."
+    else:
+        return f"{empleado['nombre']}: Planificar ruta de transporte óptima."
+
+for e in empleados:
+    print(recomendar_movilidad(e))
 
 ## Challenges
 
