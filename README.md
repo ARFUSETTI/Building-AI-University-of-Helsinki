@@ -21,3 +21,13 @@ Mi idea de IA consiste en desarrollar una plataforma que recopile y analice info
 El objetivo es identificar qué trabajadores pueden realizar sus tareas en remoto y cuáles deben desplazarse físicamente, para optimizar las rutas de transporte público y privado, reducir la congestión en la ciudad y acortar los tiempos de traslado. Todo ello se lograría mediante algoritmos de predicción y aprendizaje automático.
 
 El sistema analizará datos para recomendar la mejor ruta posible. 
+
+## Background
+Mi idea aborda varios problemas que afectan la movilidad y calidad de vida en áreas urbanas masificadas como la Comunidad de Madrid:
+
+-Elevada congestión y saturación del transporte público y privado en horas punta.
+-Ineficiencia en la planificación de rutas debido a falta de información en tiempo real sobre teletrabajo y desplazamientos.
+-Aumento de la contaminación y emisiones de CO₂ causadas por trayectos largos y tráfico intenso.
+-Necesidad de optimizar recursos para mejorar el bienestar social y reducir costes económicos.
+
+Personalmente, este tema me interesa porque lo vivo en mis propias carnes, una ciudad con estos problemas y creo que la IA puede ofrecer soluciones prácticas que beneficien a miles de personas. Además, es un área clave para el desarrollo sostenible y la mejora urbana.
