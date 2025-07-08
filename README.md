@@ -31,3 +31,14 @@ Mi idea aborda varios problemas que afectan la movilidad y calidad de vida en á
 -Necesidad de optimizar recursos para mejorar el bienestar social y reducir costes económicos.
 
 Personalmente, este tema me interesa porque lo vivo en mis propias carnes, una ciudad con estos problemas y creo que la IA puede ofrecer soluciones prácticas que beneficien a miles de personas. Además, es un área clave para el desarrollo sostenible y la mejora urbana.
+
+## How is it used?
+El sistema se usa principalmente por organismos públicos de movilidad, empresas de transporte y ciudadanos preocupados por sus desplazamientos.
+
+El proceso sería:
+1-Los usuarios registran sus datos: lugar de residencia, centro de trabajo, preferencias de transporte y posibilidades de teletrabajo.
+2-La plataforma procesa estos datos junto con información en tiempo real sobre tráfico, horarios y condiciones climáticas.
+3-Se generan recomendaciones personalizadas de rutas óptimas para cada usuario.
+4-Se actualizan en tiempo real para ajustarse a cambios en las condiciones de movilidad.
+
+Este sistema es útil en entornos urbanos con alta densidad poblacional, especialmente en horarios punta o eventos que alteran el tráfico habitual.
