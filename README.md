@@ -42,3 +42,44 @@ El proceso sería:
 4-Se actualizan en tiempo real para ajustarse a cambios en las condiciones de movilidad.
 
 Este sistema es útil en entornos urbanos con alta densidad poblacional, especialmente en horarios punta o eventos que alteran el tráfico habitual.
+
+## HData sources and AI methods
+
+Los datos se obtienen de:
+
+-Fuentes públicas de tráfico en tiempo real (por ejemplo, Google Traffic API).
+-Encuestas y registros de empresas sobre hábitos laborales y teletrabajo.
+-Datos demográficos de la Comunidad de Madrid.
+-Instituto Nacional de Estadistica de España
+
+Para la IA, se usarán técnicas de:
+
+-Aprendizaje supervisado para predecir patrones de desplazamiento.
+-Redes neuronales profundas para analizar datos complejos y no lineales.
+-Algoritmos de optimización para generar rutas eficientes.
+
+## Challenges
+
+El proyecto no resuelve:
+
+-Problemas estructurales como la falta de infraestructura vial o transporte público.
+-Cambios imprevistos como accidentes o huelgas.
+-La privacidad y protección de datos personales es una preocupación crítica y se debe garantizar el cumplimiento de la normativa (RGPD).
+
+## Ética:
+
+-Es importante garantizar que los datos se usen con consentimiento y se protejan adecuadamente.
+-Evitar sesgos que puedan discriminar a ciertos grupos de población.
+
+## What next?
+Para crecer, el proyecto podría:
+
+-Integrar datos en tiempo real de sensores urbanos y dispositivos IoT.
+-Colaborar con administraciones públicas para pilotar soluciones.
+-Desarrollar aplicaciones móviles para facilitar el acceso a los usuarios finales.
+
+Para avanzar, se necesitaría:
+
+-Expertos en ciencia de datos y movilidad urbana.
+-Soporte legal para la gestión de datos y licencias.
+-Inversión para el desarrollo tecnológico y despliegue.
